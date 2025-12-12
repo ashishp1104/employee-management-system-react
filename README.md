@@ -1,6 +1,5 @@
-# React 
 
-Employee Management System-React
+# Employee Management System-React
 -The Employee Management System is a software solution designed to help 
 organation to efficiently manage their tasks. 
 
